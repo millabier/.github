@@ -1,1 +1,1 @@
-# .github
+# Millabier SAS repository
